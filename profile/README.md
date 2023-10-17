@@ -1,6 +1,6 @@
 # Weclome to NicholasTec Github!
 
-## An amazing place for moving technology forward!
+An amazing place for moving technology forward!
 
 
 ---
