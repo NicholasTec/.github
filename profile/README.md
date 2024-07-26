@@ -4,4 +4,4 @@ An amazing place for moving technology forward!
 
 
 ---
-NicholasTec Inc. @2023
+NicholasTec Inc. @2024
